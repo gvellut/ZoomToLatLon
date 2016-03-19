@@ -11,7 +11,7 @@
 [general]
 name=Zoom To Lat/Lon
 qgisMinimumVersion=2.2
-description=Zoom to a point given in WGS84 Lat/lon and a Google Maps zoom level (or scale)
+description=Zoom to a point given in WGS84 Lat/lon
 version=0.3.0
 author=GV
 email=guilhem.vellut@gmail.com
